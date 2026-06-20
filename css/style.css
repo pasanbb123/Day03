@@ -5,12 +5,12 @@
     text-align: center;
     }
 
-    p{
-        background-color: red;
+p{
+     background-color: red;
     }
 
-    body{
-        background-color: black;
+body{
+    background-color: black;
     }
     
     /* 
@@ -20,10 +20,14 @@
     }    
     */
 
-    .bg-red-h1{
-        background-color: yellow;
+.bg-red-h1{
+    background-color: yellow;
     }
 
-    .bg-blue-h1{
-        background-color: blue;
+.bg-blue-h1{
+    background-color: blue;
     }
+
+#pg-background{
+    background-color: green;
+}    
